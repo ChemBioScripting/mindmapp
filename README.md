@@ -82,9 +82,10 @@ With the following installed:
 Clone the repo and install the dependencies from npm.
 
 ```bash
-git clone https://github.com/Mindmapp/mindmapp.git
+git clone https://github.com/ChemBioScripting/mindmapp.git
 cd mindmapp
 npm i
+npm audit fix
 ```
 
 ## :video_game: Usage
